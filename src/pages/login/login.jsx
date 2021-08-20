@@ -39,6 +39,7 @@ const NormalLoginForm = () => {
     };
 
     return (
+
         <Form
             onFinish ={onFinish} className="login-form"
             initialValues={{
